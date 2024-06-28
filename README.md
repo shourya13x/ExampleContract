@@ -44,9 +44,6 @@ To deploy this contract using tools like [Remix IDE](https://remix.ethereum.org/
 - Copy the contract code into the IDE.
 - Compile and deploy using a compatible Ethereum network.
 
-### Contributing
-
-Feel free to contribute to this project by submitting pull requests or opening issues.
 
 ---
 
