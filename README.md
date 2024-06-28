@@ -27,10 +27,6 @@ This repository contains a simple Solidity smart contract named `ExampleContract
    - **Purpose**: Retrieves the current stored value.
    - **Returns**: The current value stored in the contract.
 
-### License
-
-This contract is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
-
 ### How to Use
 
 To deploy and interact with this contract:
