@@ -40,7 +40,3 @@ To deploy this contract using tools like [Remix IDE](https://remix.ethereum.org/
 - Copy the contract code into the IDE.
 - Compile and deploy using a compatible Ethereum network.
 
-
----
-
-This README provides an overview of the `ExampleContract` smart contract, its functions, deployment instructions, and licensing information. Adjust the instructions and details based on your specific project setup and preferences before publishing it on GitHub.
